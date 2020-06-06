@@ -4,3 +4,4 @@ I list important VSLAM related books, papers, source codes here which help me an
 1. MATH
 
 A micro Lie theory for state estimation in robotics
+
